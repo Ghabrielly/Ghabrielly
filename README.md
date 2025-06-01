@@ -7,7 +7,7 @@
 
 ### 🛠️ Tecnologias & Ferramentas
 
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+<img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java" />
 <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" />
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
